@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arghasarkar/AlexaRunescapeFacts/issues"
   },
-  "homepage": "https://github.com/arghasarkar/AlexaRunescapeFacts#readme"
+  "homepage": "https://github.com/arghasarkar/AlexaRunescapeFacts#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
 }
