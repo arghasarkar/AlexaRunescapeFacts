@@ -1,0 +1,19 @@
+{
+  "name": "andrew-ng-facts",
+  "version": "1.0.0",
+  "description": "Facts about Andrew NG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghasarkar/AlexaRunescapeFacts.git"
+  },
+  "author": "Simran Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghasarkar/AlexaRunescapeFacts/issues"
+  },
+  "homepage": "https://github.com/arghasarkar/AlexaRunescapeFacts#readme"
+}

@@ -1,0 +1,11 @@
+GetAndrewFact tell me something about Andrew
+GetAndrewFact to tell me something about Andrew
+GetAndrewFact andrew
+GetAndrewFact andrew ng
+GetAndrewFact who is andrew ng
+GetAndrewFact who is andrew
+GetAndrewFact tell me more about andrew
+GetAndrewFact to tell me more about andrew
+GetAndrewFact why is andrew famous
+GetAndrewFact why is andrew ng famous
+GetAndrewFact tell me more about deep learning
